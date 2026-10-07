@@ -44,6 +44,3 @@ class Binomial(Math):
                 return a
 
             print("a = ", a, "| P(X <= a) = ", result,)
-
-Bino = Binomial()
-Bino.echantillonage(35, 0.127)
